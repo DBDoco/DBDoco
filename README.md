@@ -92,14 +92,6 @@
     <a href="https://www.microsoft.com/hr-hr/windows?r=1"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>  
 </p>
 <br>
-<br>
-
-<h2 align="center"> 🔥 Streak Stats</h2>
-<br>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=DBDoco&theme=black-ice&date_format=n%2Fj%5B%2FY%5D)" alt="7oSkaaa" /></p>
-
-<br>
-<br>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
