@@ -6,7 +6,7 @@
 
 - 🏫 I’m currently studying computer science at **Faculty of Informatics and Digital Technologies**
 
-- 🧙🏻 I’m currently learning **Flutter**
+- 🧙🏻 I’m currently learning **Flutter, Angular**
 
 - 🕸️ <a href="https://dbdoco.github.io/Portfolio-website/">Personal webpage</a>
 
