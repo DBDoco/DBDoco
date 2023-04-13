@@ -45,6 +45,10 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   </a>
+      &emsp;
+  <a href="https://angular.io/" target="_blank">
+    <img alt="angular"src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  </a> 
     &emsp;
   <a href="https://jquery.com/" target="_blank">
     <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
@@ -53,6 +57,7 @@
   <a href="https://getbootstrap.com/" target="_blank">
     <img alt="bootstrap"src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   </a> 
+
 </p>
 
 <h3 align= "center">Software & Tools</h3>
