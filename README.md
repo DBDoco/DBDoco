@@ -21,6 +21,10 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   </a> 
+    &emsp;
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img alt="Typescript" src="https://img.shields.io/badge/typescript-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
