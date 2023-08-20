@@ -85,7 +85,7 @@
   &emsp;
     <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
     &emsp;
-    <a href="https://code.visualstudio.com/"><img alt="Web Storm" src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=green"></a>
+    <a href="https://www.jetbrains.com/"><img alt="Web Storm" src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=green"></a>
   &emsp;
     <a href="https://www.jetbrains.com/"><img alt="JetBrain" src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white" /></a>
   &emsp;
