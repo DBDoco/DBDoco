@@ -67,6 +67,8 @@
     &emsp;
     <a href="https://www.jetbrains.com/"><img alt="Web Storm" src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=green"></a>
   &emsp;
+  <a href="https://www.jetbrains.com/"><img alt="Rider" src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson"></a>
+  &emsp;
     <a href="https://www.jetbrains.com/"><img alt="JetBrain" src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white" /></a>
   &emsp;
     <a href="https://visualstudio.microsoft.com/"><img alt="VisualStudio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" /></a>
