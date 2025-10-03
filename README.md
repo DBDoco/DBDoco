@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dominik</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Angular+Developer;Building+clean+%26+scalable+apps;Exploring+new+technologies;Problem+Solver" alt="Typing SVG" /></a></p>
 
 
-- 🏫 I’m currently studying computer science at **Faculty of Informatics and Digital Technologies**
-
-- 🧙🏻 I’m currently learning **Angular, Shiny, R**
+- 💼 Currently working as a Angular developer at **Kupuj Online**
 
 - 🕸️ <a href="https://dbdoco.github.io/Portfolio-website/">Personal webpage</a>
 
