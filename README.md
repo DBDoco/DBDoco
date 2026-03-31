@@ -87,11 +87,7 @@
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominik-bedenic-469498136/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dotdoco/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dbdoco@gmail.com)
   
 </div>
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=DBDoco&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-</p>
