@@ -5,7 +5,7 @@
 
 - 💼 Currently working as a Angular developer at **Kupuj Online**
 
-- 🕸️ <a href="https://dbdoco.github.io/Portfolio-website/">Personal webpage</a>
+- 🕸️ <a href="https://dbdoco.github.io/Portfolio-V2/">Personal webpage</a>
 
 - 📫 How to reach me: **dbdoco@gmail.com**
 
