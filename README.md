@@ -9,7 +9,7 @@
   <a href="https://mega.nz/file/kER1FRIK#x4fggSeLes0U2Ix1NBnxTwhM8maAHsRRox_gOtPbC78"><img src="https://img.shields.io/badge/Resume-0d0d0f?style=for-the-badge&logo=readdotcv&logoColor=9b7bff" alt="Resume" /></a>
 </p>
 
-I'm a **software engineer** at [Kupuj Online](https://www.kupujonline.com/), building full-stack products with **.NET** and **Angular** — from APIs and data models to polished UIs. I care about clean architecture, maintainable code, and understanding the problem before writing the solution. I use AI coding tools every day and help my team get real value out of them.
+I'm a **software engineer** at [Kupuj Online](https://www.kupujonline.com/), building full-stack products with **.NET** and **Angular** - from APIs and data models to polished UIs. I care about clean architecture, maintainable code, and understanding the problem before writing the solution. I use AI coding tools every day and help my team get real value out of them.
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -39,10 +39,10 @@ I'm a **software engineer** at [Kupuj Online](https://www.kupujonline.com/), bui
 ## `git log --oneline`
 
 ```text
-a7f3c91 (HEAD -> main)  now   Software engineer @ Kupuj Online — .NET & Angular
-5e2b8d4                 2025  feat: MSc Informatics — Intelligent & Interactive Systems
+a7f3c91 (HEAD -> main)  now   Software engineer @ Kupuj Online - .NET & Angular
+5e2b8d4                 2025  feat: MSc Informatics - Intelligent & Interactive Systems
 c91a0f7 (tag: winner)   2024  feat: won RI-HACK, Rijeka's biggest hackathon
-3d6e1b2                 2023  feat: BSc Informatics — Software Engineering
+3d6e1b2                 2023  feat: BSc Informatics - Software Engineering
 0000001                 2017  first commit: hello world in C++
 ```
 
