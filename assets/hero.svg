@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="470" viewBox="0 0 880 470" role="img" aria-labelledby="t d">
+  <title id="t">Dominik Bedenic — Software Engineer</title>
+  <desc id="d">A terminal session introducing Dominik: software engineer at Kupuj Online building full-stack products with .NET and Angular.</desc>
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c5cff"/>
+      <stop offset="0.55" stop-color="#c13584"/>
+      <stop offset="1" stop-color="#ff2e63"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#512bd4" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#dd0031" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="48"/>
+    </filter>
+    <clipPath id="frame"><rect width="880" height="470" rx="16"/></clipPath>
+    <clipPath id="typing">
+      <rect class="typer" x="62" y="0" width="232" height="470"/>
+    </clipPath>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 15px; }
+      .sans { font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+      .name { font-size: 48px; font-weight: 800; letter-spacing: 5px; }
+      .role { font-size: 17px; fill: #c9c9d1; letter-spacing: 0.4px; }
+      .dim  { fill: #6e6e7a; }
+      .txt  { fill: #e8e8ee; }
+      .ok   { fill: #3fd68b; }
+      .tool { fill: #ffffff; font-weight: 700; }
+      .arg  { fill: #a8a8b5; }
+      .pink { fill: #ff4d7d; }
+      .violet { fill: #9b7bff; }
+
+      .typer { transform: scaleX(0); transform-origin: 62px 0; animation: type 1.3s steps(24, end) .5s forwards; }
+      .in { opacity: 0; animation: in .35s ease-out forwards; }
+      .thinking { opacity: 0; animation: think 1s ease-in-out 1.9s forwards; }
+      .cursor { opacity: 0; animation: in .1s 6.4s forwards, blink 1.05s steps(1) 6.5s infinite; }
+      .blob1 { animation: drift1 14s ease-in-out infinite alternate; }
+      .blob2 { animation: drift2 18s ease-in-out infinite alternate; }
+
+      @keyframes in { from { opacity: 0; } to { opacity: 1; } }
+      @keyframes type { to { transform: scaleX(1); } }
+      @keyframes think { 0% { opacity: 0; } 15%, 80% { opacity: 1; } 100% { opacity: 0; } }
+      @keyframes blink { 0% { opacity: 1; } 50% { opacity: 0; } }
+      @keyframes drift1 { from { transform: translate(0, 0); } to { transform: translate(-60px, 40px); } }
+      @keyframes drift2 { from { transform: translate(0, 0); } to { transform: translate(50px, -30px); } }
+
+      @media (prefers-reduced-motion: reduce) {
+        .in, .cursor { animation: none; opacity: 1; }
+        .typer { animation: none; transform: none; }
+        .thinking { animation: none; opacity: 0; }
+        .blob1, .blob2 { animation: none; }
+      }
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <!-- window -->
+    <rect width="880" height="470" fill="#0d0d0f"/>
+    <circle class="blob1" cx="760" cy="90" r="120" fill="#512bd4" opacity="0.55" filter="url(#blur)"/>
+    <circle class="blob2" cx="830" cy="250" r="95" fill="#dd0031" opacity="0.38" filter="url(#blur)"/>
+    <rect width="880" height="40" fill="#ffffff" fill-opacity="0.035"/>
+    <line x1="0" y1="40.5" x2="880" y2="40.5" stroke="#ffffff" stroke-opacity="0.08"/>
+    <circle cx="24" cy="20" r="6" fill="#ff5f57"/>
+    <circle cx="44" cy="20" r="6" fill="#febc2e"/>
+    <circle cx="64" cy="20" r="6" fill="#28c840"/>
+    <text x="440" y="25" text-anchor="middle" class="mono dim" style="font-size:13px">dominik@rijeka: ~/github</text>
+
+    <!-- identity -->
+    <text x="40" y="108" class="sans name" fill="url(#brand)">DOMINIK BEDENIC</text>
+    <text x="42" y="140" class="sans role">Software Engineer  ·  .NET &amp; Angular  ·  Rijeka, Croatia</text>
+    <rect x="42" y="162" width="420" height="1.5" fill="url(#rule)"/>
+
+    <!-- session -->
+    <g class="mono">
+      <text x="42" y="204" class="in" style="animation-delay:.3s"><tspan class="pink">❯</tspan></text>
+      <g clip-path="url(#typing)">
+        <text x="62" y="204" class="txt">claude "who is dominik?"</text>
+      </g>
+
+      <text x="42" y="234" class="thinking"><tspan class="violet">✻</tspan><tspan class="dim"> Thinking…</tspan></text>
+
+      <text x="42" y="234" class="in" style="animation-delay:2.9s"><tspan class="ok">●</tspan> <tspan class="tool">Read</tspan><tspan class="arg">(profile.md)</tspan></text>
+      <text x="42" y="258" class="in" style="animation-delay:3.2s"><tspan class="dim">  └ </tspan><tspan class="txt">Software engineer @ Kupuj Online · MSc in Informatics</tspan></text>
+
+      <text x="42" y="290" class="in" style="animation-delay:3.7s"><tspan class="ok">●</tspan> <tspan class="tool">Bash</tspan><tspan class="arg">(dotnet build &amp;&amp; ng build)</tspan></text>
+      <text x="42" y="314" class="in" style="animation-delay:4.0s"><tspan class="dim">  └ </tspan><tspan class="ok">✓</tspan><tspan class="txt"> backend .NET  </tspan><tspan class="ok">✓</tspan><tspan class="txt"> frontend Angular  </tspan><tspan class="dim">— shipped to production</tspan></text>
+
+      <text x="42" y="346" class="in" style="animation-delay:4.5s"><tspan class="ok">●</tspan> <tspan class="tool">Read</tspan><tspan class="arg">(side-projects/)</tspan></text>
+      <text x="42" y="370" class="in" style="animation-delay:4.8s"><tspan class="dim">  └ </tspan><tspan class="txt">games · computer vision · simulations · a hackathon win</tspan></text>
+
+      <text x="42" y="410" class="in" style="animation-delay:5.5s"><tspan class="violet">✻ </tspan><tspan class="txt">Engineer first — and knows how to put AI to work.</tspan></text>
+
+      <text x="42" y="446" class="in" style="animation-delay:6.2s"><tspan class="pink">❯</tspan></text>
+      <rect class="cursor" x="62" y="433" width="9" height="17" fill="#e8e8ee"/>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="879" height="469" rx="15.5" fill="none" stroke="#ffffff" stroke-opacity="0.1"/>
+</svg>

@@ -1,93 +1,49 @@
-<h1 align="center">Hi 👋, I'm Dominik</h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Angular+Developer;Building+clean+%26+scalable+apps;Exploring+new+technologies;Problem+Solver" alt="Typing SVG" /></a></p>
-
-
-- 💼 Currently working as a Angular developer at **Kupuj Online**
-
-- 🕸️ <a href="https://dbdoco.github.io/Portfolio-V2/">Personal webpage</a>
-
-- 📫 How to reach me: **dbdoco@gmail.com**
-
-<h2 align= "center">🛠️ My Skills</h2>
-
-<h3 align= "center">Programming languages</h3>
-
-<p align="center"> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a> 
-    &emsp;
-  <a href="https://www.typescriptlang.org/" target="_blank"><img alt="Typescript" src="https://img.shields.io/badge/typescript-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
-    &emsp;
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)"></a> 
+  <img src="./assets/hero.svg" width="100%" alt="A terminal session introducing Dominik Bedenic: software engineer at Kupuj Online building full-stack products with .NET and Angular." />
 </p>
 
-<h3 align= "center">Frontend Development</h3>
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
-      &emsp;
-  <a href="https://angular.io/" target="_blank"><img alt="angular"src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a> 
-    &emsp;
-  <a href="https://jquery.com/" target="_blank"><img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"></a>
-    &emsp;
-  <a href="https://getbootstrap.com/" target="_blank"><img alt="bootstrap"src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a> 
-
-</p>
-
-<h3 align= "center">Software & Tools</h3>
- 
 <p align="center">
-  &emsp;
-    <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="https://unity.com"><img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></a>
-  &emsp;
-    <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.figma.com/"><img alt="FIGMA" img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.blender.org/"><img alt="FIGMA" img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></a>
+  <a href="https://dbdoco.github.io/Portfolio-V2/"><img src="https://img.shields.io/badge/Portfolio-0d0d0f?style=for-the-badge&logo=googlechrome&logoColor=ff4d7d" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/dominik-bedenic-469498136/"><img src="https://img.shields.io/badge/LinkedIn-0d0d0f?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
+  <a href="mailto:dbdoco@gmail.com"><img src="https://img.shields.io/badge/Email-0d0d0f?style=for-the-badge&logo=gmail&logoColor=ff4d7d" alt="Email" /></a>
+  <a href="https://mega.nz/file/kER1FRIK#x4fggSeLes0U2Ix1NBnxTwhM8maAHsRRox_gOtPbC78"><img src="https://img.shields.io/badge/Resume-0d0d0f?style=for-the-badge&logo=readdotcv&logoColor=9b7bff" alt="Resume" /></a>
 </p>
 
-<h3 align= "center">IDEs</h3>
- 
-<p align="center">
-  &emsp;
-    <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
-    &emsp;
-    <a href="https://www.jetbrains.com/"><img alt="Web Storm" src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=green"></a>
-  &emsp;
-  <a href="https://www.jetbrains.com/"><img alt="Rider" src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson"></a>
-  &emsp;
-    <a href="https://www.jetbrains.com/"><img alt="JetBrain" src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white" /></a>
-  &emsp;
-    <a href="https://visualstudio.microsoft.com/"><img alt="VisualStudio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" /></a>
-</p>
+I'm a **software engineer** at [Kupuj Online](https://www.kupujonline.com/), building full-stack products with **.NET** and **Angular** — from APIs and data models to polished UIs. I care about clean architecture, maintainable code, and understanding the problem before writing the solution. I use AI coding tools every day and help my team get real value out of them.
 
-</p>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<h3 align= "center">Operating Systems</h3>
- 
-<p align="center">
-  &emsp;
-    <a href="https://github.com/torvalds/linux"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="https://www.microsoft.com/hr-hr/windows?r=1"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>  
-</p>
-<br>
+## `stack/`
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
+<table>
+  <tr>
+    <td align="right" width="18%"><sub><b>CORE</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,rxjs,html,css,git" alt=".NET, C#, Angular, TypeScript, RxJS, HTML, CSS, Git" /></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>ALSO</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=py,js,cpp,nodejs,vue,tailwind,docker,linux,opencv,unity,blender,figma&perline=12" alt="Python, JavaScript, C++, Node.js, Vue, Tailwind, Docker, Linux, OpenCV, Unity, Blender, Figma" /></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>AI TOOLING</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Claude_Code-0d0d0f?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude Code" />
+      <img src="https://img.shields.io/badge/Codex-0d0d0f?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTIyLjI4MTkgOS44MjExYTUuOTg0NyA1Ljk4NDcgMCAwIDAtLjUxNTctNC45MTA4IDYuMDQ2MiA2LjA0NjIgMCAwIDAtNi41MDk4LTIuOUE2LjA2NTEgNi4wNjUxIDAgMCAwIDQuOTgwNyA0LjE4MThhNS45ODQ3IDUuOTg0NyAwIDAgMC0zLjk5NzcgMi45IDYuMDQ2MiA2LjA0NjIgMCAwIDAgLjc0MjcgNy4wOTY2IDUuOTggNS45OCAwIDAgMCAuNTExIDQuOTEwNyA2LjA1MSA2LjA1MSAwIDAgMCA2LjUxNDYgMi45MDAxQTUuOTg0NyA1Ljk4NDcgMCAwIDAgMTMuMjU5OSAyNGE2LjA1NTcgNi4wNTU3IDAgMCAwIDUuNzcxOC00LjIwNTggNS45ODk0IDUuOTg5NCAwIDAgMCAzLjk5NzctMi45MDAxIDYuMDU1NyA2LjA1NTcgMCAwIDAtLjc0NzUtNy4wNzI5em0tOS4wMjIgMTIuNjA4MWE0LjQ3NTUgNC40NzU1IDAgMCAxLTIuODc2NC0xLjA0MDhsLjE0MTktLjA4MDQgNC43NzgzLTIuNzU4MmEuNzk0OC43OTQ4IDAgMCAwIC4zOTI3LS42ODEzdi02LjczNjlsMi4wMiAxLjE2ODZhLjA3MS4wNzEgMCAwIDEgLjAzOC4wNTJ2NS41ODI2YTQuNTA0IDQuNTA0IDAgMCAxLTQuNDk0NSA0LjQ5NDR6bS05LjY2MDctNC4xMjU0YTQuNDcwOCA0LjQ3MDggMCAwIDEtLjUzNDYtMy4wMTM3bC4xNDIuMDg1MiA0Ljc4MyAyLjc1ODJhLjc3MTIuNzcxMiAwIDAgMCAuNzgwNiAwbDUuODQyOC0zLjM2ODV2Mi4zMzI0YS4wODA0LjA4MDQgMCAwIDEtLjAzMzIuMDYxNUw5Ljc0IDE5Ljk1MDJhNC40OTkyIDQuNDk5MiAwIDAgMS02LjE0MDgtMS42NDY0ek0yLjM0MDggNy44OTU2YTQuNDg1IDQuNDg1IDAgMCAxIDIuMzY1NS0xLjk3MjhWMTEuNmEuNzY2NC43NjY0IDAgMCAwIC4zODc5LjY3NjVsNS44MTQ0IDMuMzU0My0yLjAyMDEgMS4xNjg1YS4wNzU3LjA3NTcgMCAwIDEtLjA3MSAwbC00LjgzMDMtMi43ODY1QTQuNTA0IDQuNTA0IDAgMCAxIDIuMzQwOCA3Ljg3MnptMTYuNTk2MyAzLjg1NThMMTMuMTAzOCA4LjM2NCAxNS4xMTkyIDcuMmEuMDc1Ny4wNzU3IDAgMCAxIC4wNzEgMGw0LjgzMDMgMi43OTEzYTQuNDk0NCA0LjQ5NDQgMCAwIDEtLjY3NjUgOC4xMDQydi01LjY3NzJhLjc5Ljc5IDAgMCAwLS40MDctLjY2N3ptMi4wMTA3LTMuMDIzMWwtLjE0Mi0uMDg1Mi00Ljc3MzUtMi43ODE4YS43NzU5Ljc3NTkgMCAwIDAtLjc4NTQgMEw5LjQwOSA5LjIyOTdWNi44OTc0YS4wNjYyLjA2NjIgMCAwIDEgLjAyODQtLjA2MTVsNC44MzAzLTIuNzg2NmE0LjQ5OTIgNC40OTkyIDAgMCAxIDYuNjgwMiA0LjY2ek04LjMwNjUgMTIuODYzbC0yLjAyLTEuMTYzOGEuMDgwNC4wODA0IDAgMCAxLS4wMzgtLjA1NjdWNi4wNzQyYTQuNDk5MiA0LjQ5OTIgMCAwIDEgNy4zNzU3LTMuNDUzN2wtLjE0Mi4wODA1TDguNzA0IDUuNDU5YS43OTQ4Ljc5NDggMCAwIDAtLjM5MjcuNjgxM3ptMS4wOTc2LTIuMzY1NGwyLjYwMi0xLjQ5OTggMi42MDY5IDEuNDk5OHYyLjk5OTRsLTIuNTk3NCAxLjQ5OTctMi42MDY3LTEuNDk5N1oiLz48L3N2Zz4=" alt="OpenAI Codex" />
+      <img src="https://img.shields.io/badge/OpenCode-0d0d0f?style=for-the-badge&logo=opencode&logoColor=white" alt="OpenCode" />
+      <img src="https://img.shields.io/badge/GitHub_Copilot-0d0d0f?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+      <img src="https://img.shields.io/badge/MCP-0d0d0f?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
+    </td>
+  </tr>
+</table>
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominik-bedenic-469498136/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dbdoco@gmail.com)
-  
-</div>
+## `git log --oneline`
 
+```text
+a7f3c91 (HEAD -> main)  now   Software engineer @ Kupuj Online — .NET & Angular
+5e2b8d4                 2025  feat: MSc Informatics — Intelligent & Interactive Systems
+c91a0f7 (tag: winner)   2024  feat: won RI-HACK, Rijeka's biggest hackathon
+3d6e1b2                 2023  feat: BSc Informatics — Software Engineering
+0000001                 2017  first commit: hello world in C++
+```
+
+<p align="center"><sub><b>✻ Session complete.</b></sub></p>
