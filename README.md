@@ -18,7 +18,7 @@ I'm a **software engineer** at [Kupuj Online](https://www.kupujonline.com/), bui
 <table>
   <tr>
     <td align="right" width="18%"><sub><b>CORE</b></sub></td>
-    <td><img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,rxjs,html,css,git" alt=".NET, C#, Angular, TypeScript, RxJS, HTML, CSS, Git" /></td>
+    <td><img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,rxjs,flutter,html,css,git" alt=".NET, C#, Angular, TypeScript, RxJS, Flutter, HTML, CSS, Git" /></td>
   </tr>
   <tr>
     <td align="right"><sub><b>ALSO</b></sub></td>
